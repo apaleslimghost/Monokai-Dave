@@ -11,7 +11,7 @@ endif
 let g:colors_name = "MonokaiDave"
 
 hi Cursor ctermfg=233 ctermbg=231 cterm=NONE guifg=#0f1110 guibg=#f8f8f0 gui=NONE
-hi Visual ctermfg=NONE ctermbg=130 cterm=NONE guifg=NONE guibg=#9d550f gui=NONE
+hi Visual ctermfg=NONE ctermbg=130 cterm=NONE guifg=#eaeae4 guibg=#9d550f gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=235 cterm=NONE guifg=NONE guibg=#252725 gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=235 cterm=NONE guifg=NONE guibg=#252725 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=235 cterm=NONE guifg=NONE guibg=#252725 gui=NONE
