@@ -1,7 +1,7 @@
 {
   "name": "monokai-dave",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Monokai with some background colours providing a subtle highlight",
   "repository": "https://github.com/quarterto/Monokai-Dave",
   "license": "MIT",
